@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=900, user-scalable=yes">
+    <title>HSY Güvenlik Teklif Sistemi</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+            margin: 0;
+        }
+
+        .landing-card {
+            background: white;
+            padding: 3rem;
+            border-radius: 1rem;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 90%;
+        }
+
+        .logo-img {
+            height: 80px;
+            margin-bottom: 1.5rem;
+        }
+
+        h1 {
+            color: #1e293b;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+
+        p {
+            color: #64748b;
+            margin-bottom: 2rem;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+
+        .btn-start {
+            background-color: #2563eb;
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 0.5rem;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.2rem;
+            display: inline-block;
+            transition: background-color 0.2s;
+        }
+
+        .btn-start:hover {
+            background-color: #1d4ed8;
+        }
+
+        .github-note {
+            margin-top: 2rem;
+            font-size: 0.9rem;
+            color: #94a3b8;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="landing-card">
+        <img src="img/logo.png" alt="HSY Güvenlik Logo" class="logo-img">
+        <h1>Teklif Hazırlama Sistemi</h1>
+        <p>
+            HSY Güvenlik profesyonel teklif yönetim paneline hoş geldiniz.
+            Müşteri tekliflerinizi hızlıca oluşturun, PDF/PNG olarak indirin ve paylaşın.
+        </p>
+
+        <a href="index.php" class="btn-start">Sisteme Giriş Yap</a>
+
+        <div class="github-note">
+            <p style="font-size: 0.85rem; margin-bottom: 0.5rem;"><strong>Not:</strong> Bu bir PHP uygulamasıdır.</p>
+            <p style="font-size: 0.85rem; margin: 0;">GitHub Pages gibi sadece statik (HTML) destekleyen sunucularda
+                giriş butonu çalışmayabilir. Tam fonksiyon için PHP destekli bir sunucu (veya Localhost) gereklidir.</p>
+        </div>
+    </div>
+</body>
+
+</html>
