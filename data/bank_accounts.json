@@ -1,0 +1,34 @@
+[
+    {
+        "id": "693a796d09b32",
+        "bank_name": "Enpara Bank",
+        "iban": "TR000000000000000000000000",
+        "currency": "TL",
+        "show_in_proposal": true,
+        "account_holder": "Hüseyin Çiçek"
+    },
+    {
+        "id": "693a799710326",
+        "bank_name": "Ziraat Bankası",
+        "iban": "TR000000000000000000000000",
+        "currency": "USD",
+        "show_in_proposal": true,
+        "account_holder": "Hüseyin Çiçek"
+    },
+    {
+        "id": "693a7ae3d6843",
+        "bank_name": "İş bankası",
+        "account_holder": "Hüseyin Çiçek",
+        "iban": "TR000000000000000000000000",
+        "currency": "TL",
+        "show_in_proposal": true
+    },
+    {
+        "id": "693a7aed3847d",
+        "bank_name": "QNB Finansbank",
+        "account_holder": "Hüseyin Çiçek",
+        "iban": "TR000000000000000000000000",
+        "currency": "EUR",
+        "show_in_proposal": true
+    }
+]

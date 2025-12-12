@@ -1,0 +1,469 @@
+[
+    {
+        "id": "693a6031c360a",
+        "created_at": "2025-12-11 07:09:53",
+        "customer": "Baver Demir",
+        "items": [
+            {
+                "product_id": "693a5dd699f0a",
+                "product_name": "[AHD] Renkli ses yok 2 MP",
+                "price": 22,
+                "quantity": 2,
+                "currency": "USD",
+                "total": 44
+            },
+            {
+                "product_id": "693a5de49803c",
+                "product_name": "[AHD] Renkli ve sesli 2 MP",
+                "price": 36,
+                "quantity": 2,
+                "currency": "USD",
+                "total": 72
+            },
+            {
+                "product_id": "693a5dffcc459",
+                "product_name": "[AHD] 8'li ahd kayıt cihazı",
+                "price": 62,
+                "quantity": 2,
+                "currency": "USD",
+                "total": 124
+            },
+            {
+                "product_id": "693a5e3956440",
+                "product_name": "[AHD] Montaj buati tane",
+                "price": 30,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 30
+            },
+            {
+                "product_id": "693a5e54e1fc9",
+                "product_name": "[IP] Renksiz ses yok 2 MP",
+                "price": 40,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 40
+            },
+            {
+                "product_id": "693a5eabcbbef",
+                "product_name": "[IP] Renkli ve sesli 4 MP",
+                "price": 100,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 100
+            },
+            {
+                "product_id": "693a5eb7934ba",
+                "product_name": "[IP] 4 kanal nvr kayıt cihazı",
+                "price": 60,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 60
+            },
+            {
+                "product_id": "693a5eb7934ba",
+                "product_name": "[IP] 4 kanal nvr kayıt cihazı",
+                "price": 60,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 60
+            },
+            {
+                "product_id": "693a5ec29a8e0",
+                "product_name": "[IP] 8 kanal nvr kayıt cihazı",
+                "price": 70,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 70
+            },
+            {
+                "product_id": "693a5ec29a8e0",
+                "product_name": "[IP] 8 kanal nvr kayıt cihazı",
+                "price": 70,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 70
+            }
+        ],
+        "grand_total_display": "640.00 USD + 30.00 TL",
+        "selected_banks": [
+            "693a6c7dc8b8b"
+        ]
+    },
+    {
+        "id": "693a8d6dd2238",
+        "created_at": "2025-12-11 10:22:53",
+        "customer": "Baver Demir",
+        "items": [
+            {
+                "product_id": "693a5ec29a8e0",
+                "product_name": "[IP] 8 kanal nvr kayıt cihazı",
+                "price": 70,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 70
+            },
+            {
+                "product_id": "693a5eabcbbef",
+                "product_name": "[IP] Renkli ve sesli 4 MP",
+                "price": 100,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 100
+            },
+            {
+                "product_id": "693a5eabcbbef",
+                "product_name": "[IP] Renkli ve sesli 4 MP",
+                "price": 100,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 100
+            }
+        ],
+        "grand_total_display": "270.00 USD"
+    },
+    {
+        "id": "693a9fea04346",
+        "created_at": "2025-12-11 11:41:46",
+        "customer": "Baver Demir",
+        "items": [
+            {
+                "product_id": "693a5f01bed21",
+                "product_name": "[IP] Cat6 kablo reçber metresi",
+                "price": 25,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 25
+            },
+            {
+                "product_id": "693a5ef7e7af5",
+                "product_name": "[IP] cat6 kablo Trio metre",
+                "price": 15,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 15
+            },
+            {
+                "product_id": "693a5eabcbbef",
+                "product_name": "[IP] Renkli ve sesli 4 MP",
+                "price": 100,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 100
+            },
+            {
+                "product_id": "693a5ea024346",
+                "product_name": "[IP] Renksiz ve sessiz iç ortam 4 MP",
+                "price": 57,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 57
+            },
+            {
+                "product_id": "693a5de49803c",
+                "product_name": "[AHD] Renkli ve sesli 2 MP",
+                "price": 36,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 36
+            },
+            {
+                "product_id": "693a5e2f88dfa",
+                "product_name": "[AHD] Ahd BNC başlık tane",
+                "price": 30,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 30
+            },
+            {
+                "product_id": "693a5eccbeb28",
+                "product_name": "[IP] 16 kanal nvr kayıt cihazı",
+                "price": 95,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 95
+            },
+            {
+                "product_id": "693a5eeeae752",
+                "product_name": "[IP] enerji başlık",
+                "price": 20,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 20
+            },
+            {
+                "product_id": "693a5e9367aaf",
+                "product_name": "[IP] Renksiz ve sessiz 4 mp",
+                "price": 55,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 55
+            },
+            {
+                "product_id": "693a5e54e1fc9",
+                "product_name": "[IP] Renksiz ses yok 2 MP",
+                "price": 40,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 40
+            },
+            {
+                "product_id": "693a5e7e7edd0",
+                "product_name": "[IP] Renkli ve sesli 2 MP",
+                "price": 55,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 55
+            },
+            {
+                "product_id": "693a5e167cec2",
+                "product_name": "[AHD] Ahd adaptör 10 amper",
+                "price": 10,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 10
+            },
+            {
+                "product_id": "693a5dffcc459",
+                "product_name": "[AHD] 8'li ahd kayıt cihazı",
+                "price": 62,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 62
+            },
+            {
+                "product_id": "693a5e0ba0733",
+                "product_name": "[AHD] 16'lı ahd kayıt cihazı",
+                "price": 95,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 95
+            },
+            {
+                "product_id": "693a5dd699f0a",
+                "product_name": "[AHD] Renkli ses yok 2 MP",
+                "price": 22,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 22
+            },
+            {
+                "product_id": "693a5df375703",
+                "product_name": "[AHD] 4'lü ahd kayıt cihazı",
+                "price": 48,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 48
+            },
+            {
+                "product_id": "693a5e3956440",
+                "product_name": "[AHD] Montaj buati tane",
+                "price": 30,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 30
+            }
+        ],
+        "grand_total_display": "120.00 TL + 675.00 USD"
+    },
+    {
+        "id": "693acb7c648f4",
+        "created_at": "2025-12-11 14:47:40",
+        "customer": "Baver Demir",
+        "items": [
+            {
+                "product_id": "693a5de49803c",
+                "product_name": "[AHD] Renkli ve sesli 2 MP",
+                "price": 36,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 36
+            },
+            {
+                "product_id": "693a5df375703",
+                "product_name": "[AHD] 4'lü ahd kayıt cihazı",
+                "price": 48,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 48
+            },
+            {
+                "product_id": "693a5dffcc459",
+                "product_name": "[AHD] 8'li ahd kayıt cihazı",
+                "price": 62,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 62
+            },
+            {
+                "product_id": "693a5ec29a8e0",
+                "product_name": "[IP] 8 kanal nvr kayıt cihazı",
+                "price": 70,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 70
+            },
+            {
+                "product_id": "693a5ed8cf9df",
+                "product_name": "[IP] 4 port poe swich",
+                "price": 37,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 37
+            },
+            {
+                "product_id": "693a5eeeae752",
+                "product_name": "[IP] enerji başlık",
+                "price": 20,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 20
+            },
+            {
+                "product_id": "693a5eb7934ba",
+                "product_name": "[IP] 4 kanal nvr kayıt cihazı",
+                "price": 60,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 60
+            },
+            {
+                "product_id": "693a5e25981e5",
+                "product_name": "[AHD] Ahd kablo metre fiyatı",
+                "price": 10,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 10
+            },
+            {
+                "product_id": "693a5e167cec2",
+                "product_name": "[AHD] Ahd adaptör 10 amper",
+                "price": 10,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 10
+            },
+            {
+                "product_id": "693a5eccbeb28",
+                "product_name": "[IP] 16 kanal nvr kayıt cihazı",
+                "price": 95,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 95
+            },
+            {
+                "product_id": "693a5ea024346",
+                "product_name": "[IP] Renksiz ve sessiz iç ortam 4 MP",
+                "price": 57,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 57
+            },
+            {
+                "product_id": "693a5e9367aaf",
+                "product_name": "[IP] Renksiz ve sessiz 4 mp",
+                "price": 55,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 55
+            },
+            {
+                "product_id": "693a5ee392aa3",
+                "product_name": "[IP] 8 port poe swich",
+                "price": 50,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 50
+            },
+            {
+                "product_id": "693a5e2f88dfa",
+                "product_name": "[AHD] Ahd BNC başlık tane",
+                "price": 30,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 30
+            },
+            {
+                "product_id": "693a5e3956440",
+                "product_name": "[AHD] Montaj buati tane",
+                "price": 30,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 30
+            },
+            {
+                "product_id": "693a5e6f71e64",
+                "product_name": "[IP] Renksiz sesli 2 MP",
+                "price": 42,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 42
+            },
+            {
+                "product_id": "693a5e0ba0733",
+                "product_name": "[AHD] 16'lı ahd kayıt cihazı",
+                "price": 95,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 95
+            },
+            {
+                "product_id": "693a5e54e1fc9",
+                "product_name": "[IP] Renksiz ses yok 2 MP",
+                "price": 40,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 40
+            },
+            {
+                "product_id": "693a5e7e7edd0",
+                "product_name": "[IP] Renkli ve sesli 2 MP",
+                "price": 55,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 55
+            },
+            {
+                "product_id": "693a5dd699f0a",
+                "product_name": "[AHD] Renkli ses yok 2 MP",
+                "price": 22,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 22
+            },
+            {
+                "product_id": "693a5ef7e7af5",
+                "product_name": "[IP] cat6 kablo Trio metre",
+                "price": 15,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 15
+            },
+            {
+                "product_id": "693a5eabcbbef",
+                "product_name": "[IP] Renkli ve sesli 4 MP",
+                "price": 100,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 100
+            },
+            {
+                "product_id": "693a5e88cb617",
+                "product_name": "[IP] Renkli ve sesli iç ortam 2 MP",
+                "price": 58,
+                "quantity": 1,
+                "currency": "USD",
+                "total": 58
+            },
+            {
+                "product_id": "693a5f01bed21",
+                "product_name": "[IP] Cat6 kablo reçber metresi",
+                "price": 25,
+                "quantity": 1,
+                "currency": "TL",
+                "total": 25
+            }
+        ],
+        "grand_total_display": "992.00 USD + 130.00 TL"
+    }
+]
